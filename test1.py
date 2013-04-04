@@ -8,3 +8,5 @@ fullname=gname[0].upper()+". "+sname[0].upper()+sname[1:]
 print fullname
 
 Porky pie little lie
+
+# programmed by Dr. Rodolfo Hermans
