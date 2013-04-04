@@ -21,9 +21,6 @@ and TrackCellChangeTimes in the search field.Set the option to False and save \
 your notebook.\
 \>", "Subsubtitle"],
 
-Cell[BoxData[
- RowBox[{"Porky", " ", "pie", " ", "little", " ", "lie"}]], "Input"],
-
 Cell[CellGroupData[{
 
 Cell[BoxData[
@@ -74,3 +71,4 @@ TrackCellChangeTimes->False,
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
 ]
+
