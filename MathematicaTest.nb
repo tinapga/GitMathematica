@@ -7,6 +7,8 @@ Cell[BoxData[
   3.5740706579395475`*^9, 3.5740706607667093`*^9}, {3.574070741013299*^9, 
   3.574070772624107*^9}}],
 
+Cell[CellGroupData[{
+
 Cell["\<\
 It is importante to disable the \[OpenCurlyDoubleQuote]file outline cache\
 \[CloseCurlyDoubleQuote] and \[OpenCurlyDoubleQuote]Cell time change\
@@ -17,7 +19,11 @@ In the Mathematica menu, go to Format >> Option Inspector, in the top - left \
 set the scope dropdown to Selected Notebook and search for FileOutlineCache \
 and TrackCellChangeTimes in the search field.Set the option to False and save \
 your notebook.\
-\>", "Subsubtitle"]
+\>", "Subsubtitle"],
+
+Cell[BoxData[
+ RowBox[{"Porky", " ", "pie", " ", "little", " ", "lie"}]], "Input"]
+}, Open  ]]
 },
 WindowSize->{1017, 867},
 WindowMargins->{{79, Automatic}, {Automatic, 46}},
